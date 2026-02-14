@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Efe Kalaycı</h1>
+<h1 align="center">Hi 👋, I'm Efe </h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **3D Game**
