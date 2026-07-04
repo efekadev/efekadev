@@ -1,11 +1,7 @@
 <h1 align="center">Hi , I'm Efe </h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
--  I’m currently working on **3D Game**
-
 -  I’m currently learning **Unity**
-
--  Ask me about **Unity**
 
 -  How to reach me **efekadev@gmail.com**
 
